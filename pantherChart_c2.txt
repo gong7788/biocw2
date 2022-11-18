@@ -1,0 +1,12 @@
+1	Gonadotropin-releasing hormone receptor pathway (P06664)	2	5.7%	10.5%
+2	p53 pathway (P00059)	2	5.7%	10.5%
+3	Huntington disease (P00029)	1	2.9%	5.3%
+4	Inflammation mediated by chemokine and cytokine signaling pathway (P00031)	1	2.9%	5.3%
+5	p38 MAPK pathway (P05918)	1	2.9%	5.3%
+6	Wnt signaling pathway (P00057)	5	14.3%	26.3%
+7	Transcription regulation by bZIP transcription factor (P00055)	1	2.9%	5.3%
+8	Heterotrimeric G-protein signaling pathway-Gi alpha and Gs alpha mediated pathway (P00026)	1	2.9%	5.3%
+9	TGF-beta signaling pathway (P00052)	1	2.9%	5.3%
+10	CCKR signaling map (P06959)	1	2.9%	5.3%
+11	DNA replication (P00017)	1	2.9%	5.3%
+12	Oxidative stress response (P00046)	2	5.7%	10.5%

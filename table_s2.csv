@@ -1,0 +1,11 @@
+,GO_ID,GO_term,GO_term_Count
+0,GO:0005515,protein binding,470
+1,GO:0005886,plasma membrane,282
+2,GO:0005829,cytosol,220
+3,GO:0005634,nucleus,218
+4,GO:0005737,cytoplasm,190
+5,GO:0005654,nucleoplasm,177
+6,GO:0016020,membrane,146
+7,GO:0046872,metal ion binding,89
+8,GO:0070062,extracellular exosome,86
+9,GO:0005524,ATP binding,78

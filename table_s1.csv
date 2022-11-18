@@ -1,0 +1,12 @@
+,GO_ID,GO_term,GO_term_Count
+0,GO:0005515,protein binding,170
+1,GO:0005634,nucleus,119
+2,GO:0005654,nucleoplasm,95
+3,GO:0005829,cytosol,81
+4,GO:0005886,plasma membrane,64
+5,GO:0005737,cytoplasm,64
+6,GO:0006357,regulation of transcription by RNA polymerase II,50
+7,GO:0045944,positive regulation of transcription by RNA polymerase II,47
+8,GO:0046872,metal ion binding,45
+9,GO:0000785,chromatin,43
+10,GO:0016020,membrane,43
