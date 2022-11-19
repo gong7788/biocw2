@@ -1,2 +1,19 @@
-1	MAP3Ks (P06834)	1	9.2233720368547763E17%	33.3%
-2	AMPK (P06830)	2	9.2233720368547763E17%	66.7%
+1	Metabotropic glutamate receptor group III pathway (P00039)	3	7.0%	8.1%
+2	Axon guidance mediated by semaphorins (P00007)	1	2.3%	2.7%
+3	Apoptosis signaling pathway (P00006)	1	2.3%	2.7%
+4	Ionotropic glutamate receptor pathway (P00037)	4	9.3%	10.8%
+5	Integrin signalling pathway (P00034)	1	2.3%	2.7%
+6	Opioid proenkephalin pathway (P05915)	1	2.3%	2.7%
+7	Enkephalin release (P05913)	1	2.3%	2.7%
+8	Inflammation mediated by chemokine and cytokine signaling pathway (P00031)	1	2.3%	2.7%
+9	p53 pathway by glucose deprivation (P04397)	2	4.7%	5.4%
+10	Parkinson disease (P00049)	1	2.3%	2.7%
+11	Gonadotropin-releasing hormone receptor pathway (P06664)	3	7.0%	8.1%
+12	DNA replication (P00017)	1	2.3%	2.7%
+13	Muscarinic acetylcholine receptor 1 and 3 signaling pathway (P00042)	3	7.0%	8.1%
+14	Metabotropic glutamate receptor group I pathway (P00041)	3	7.0%	8.1%
+15	CCKR signaling map (P06959)	1	2.3%	2.7%
+16	Huntington disease (P00029)	5	11.6%	13.5%
+17	Pyrimidine Metabolism (P02771)	1	2.3%	2.7%
+18	Synaptic vesicle trafficking (P05734)	3	7.0%	8.1%
+19	T cell activation (P00053)	1	2.3%	2.7%
